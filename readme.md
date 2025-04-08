@@ -6,3 +6,5 @@ The WT0132P4-A1 core board based on Espressif ESP32-P4 series chip, featuring a 
 MB PSRAM.Additionally, the ESP32-P4 supports various peripherals such as USB 2.0, MIPI-CSI and MIPI-DSI, making it ideal for
 
 cost-effective, low-power multimedia product development.
+
+![WT99P4C5-S1](WT99P4C5-S1.png)
